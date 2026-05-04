@@ -1,0 +1,20 @@
+/*!*************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[10].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[10].use[3]!./app/globals.css ***!
+  \*************************************************************************************************************************************************************************************************************************************************************/
+/* CH-14: design tokens via CSS variables */
+:root {
+  --color-primary:    #3b82f6;
+  --color-secondary:  #64748b;
+  --color-bg:         #0f172a;
+  --color-surface:    #1e293b;
+  --color-border:     #334155;
+  --color-text:       #e2e8f0;
+  --color-muted:      #94a3b8;
+  --color-success:    #34d399;
+  --color-danger:     #ef4444;
+  --color-accent:     #38bdf8;
+  --radius:           8px;
+}
+* { box-sizing: border-box; }
+body { margin: 0; }
+
