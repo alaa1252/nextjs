@@ -19,18 +19,7 @@ npm run dev        # http://localhost:3000
 | `npm test`     | Run unit tests       |
 | `npm run test:e2e` | Run Playwright E2E |
 
-## Setup
 
-```bash
-cp .env.example .env.local
-# Fill in DATABASE_URL, NEXTAUTH_SECRET, etc.
-```
-
-## Deploy to Vercel
-
-```bash
-npx vercel --prod
-```
 
 ## Challenge Map
 
